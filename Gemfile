@@ -43,4 +43,4 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
-gem 'font-awesome-rails'
+gem 'font-awesome-fonts'
